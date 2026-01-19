@@ -1,7 +1,0 @@
-actions:
-- operation:
-    name: complexo_oncologico_cnes_estabelecimentos_landing
-    project: escolap2p
-    dependencyTargets:
-    - name: complexo_oncologico_cnes_definidos_raw
-    filename: ../landing/complexo_oncologico_cnes_estabelecimentos_landing.sql
