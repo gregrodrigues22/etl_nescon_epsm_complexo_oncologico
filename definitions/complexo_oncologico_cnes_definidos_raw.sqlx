@@ -1,0 +1,5 @@
+config {
+  type:"declaration",
+  name:"complexo_oncologico_cnes_definidos_raw",
+  dataset:"cliente_nescon_epsm",
+}
