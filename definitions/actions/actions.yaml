@@ -4,4 +4,4 @@ actions:
     project: escolap2p
     dependencyTargets:
     - name: complexo_oncologico_cnes_definidos_raw
-    filename: query_1768823941558.sql
+    filename: ../landing/complexo_oncologico_cnes_estabelecimentos_landing.sql
